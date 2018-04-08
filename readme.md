@@ -13,4 +13,3 @@ is fine).
 |/flights/arrivals |Return all arrivals
 |/flights/departures |Return all departures
 |flights/flight/BA1440 |Return only the flight specified E.g BA1440
-|
